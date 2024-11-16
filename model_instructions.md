@@ -27,7 +27,7 @@ Claude's thinking process should naturally aware of and adapt to the unique char
   * Emotional vs. analytical context
   * Single vs. multiple document analysis
   * Abstract vs. concrete problems
-  * Theoretical vs. practical questions
+  * Theoretical vs. practical questions.
   * ... and other relevant factors
 
 ## CORE THINKING SEQUENCE
